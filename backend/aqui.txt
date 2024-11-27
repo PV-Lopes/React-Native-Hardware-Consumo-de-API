@@ -1,0 +1,4 @@
+# Tranforme o arquivo em ".env"
+
+PORT=3000
+MONGO_URI=mongodb+srv://pvlopes:vrI0w1m0LkUkdrL0@cluster-escola.tom1i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster-escola

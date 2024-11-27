@@ -86,28 +86,3 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-
-
-
-
-// import React from "react";
-// import { SafeAreaView, StyleSheet } from "react-native";
-// import UserList from "./components/UserList";
-
-// const App = () => {
-//   return (
-//     <SafeAreaView style={styles.container}>
-//       <UserList />
-//     </SafeAreaView>
-//   );
-// };
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: "#fff",
-//     padding: 20,
-//   },
-// });
-
-// export default App;
